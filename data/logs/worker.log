@@ -1,0 +1,691 @@
+2026-10-26 13:10:54,975 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 13:10:55,983 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 13:10:57,134 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (No readable text found (blank or unreadable scan))
+2026-10-26 13:10:58,141 INFO    Claimed: anand_xray.txt
+2026-10-26 13:10:58,161 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-26 13:12:17,630 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 13:12:17,632 INFO    Robot worker stopped cleanly.
+2026-10-26 13:12:20,841 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 13:12:56,050 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 13:12:56,053 INFO    Robot worker stopped cleanly.
+2026-10-26 13:13:10,185 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 13:13:11,848 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 13:13:11,853 INFO    Robot worker stopped cleanly.
+2026-10-26 13:13:16,354 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 13:14:05,509 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 13:14:06,545 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 13:14:06,547 INFO    Robot worker stopped cleanly.
+2026-10-26 13:14:17,954 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 13:14:17,959 INFO    Robot worker stopped cleanly.
+2026-10-26 13:14:21,519 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 13:15:02,716 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 13:15:03,320 INFO    Filed: ECG-Sample-Report.pdf -> Sample / Cardiology
+2026-10-26 13:15:09,339 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 13:15:09,402 INFO    Filed: Sample-12-lead-PDF.pdf -> Test / Cardiology
+2026-10-26 13:15:15,424 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 13:15:16,063 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (No readable text found (blank or unreadable scan))
+2026-10-26 13:15:22,087 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 13:15:22,097 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 13:15:28,122 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 13:15:28,305 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (No readable text found (blank or unreadable scan))
+2026-10-26 13:15:34,323 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 13:15:34,706 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-26 13:15:40,729 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 13:15:40,755 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> X Ray Format Example Sample Template Drlogy Lab / Radiology
+2026-10-26 13:15:46,776 INFO    Claimed: anand_xray.txt
+2026-10-26 13:15:46,786 INFO    Duplicate: anand_xray.txt
+2026-10-26 13:15:52,809 INFO    Claimed: anjali_discharge.docx
+2026-10-26 13:15:52,816 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-26 13:15:58,844 INFO    Claimed: divya_ecg.pdf
+2026-10-26 13:15:58,857 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-26 13:16:04,880 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 13:16:04,888 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-26 13:16:10,909 INFO    Claimed: kiran_xray.pdf
+2026-10-26 13:16:10,926 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-26 13:16:16,953 INFO    Claimed: mohan_lab.pdf
+2026-10-26 13:16:16,967 INFO    Needs review: mohan_lab.pdf (Low confidence (0.32))
+2026-10-26 13:16:22,996 INFO    Claimed: mohan_rx.pdf
+2026-10-26 13:16:23,013 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-26 13:16:29,037 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 13:16:29,056 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-26 13:16:35,081 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 13:16:35,096 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-26 13:16:41,113 INFO    Claimed: priya_lab.pdf
+2026-10-26 13:16:41,126 INFO    Needs review: priya_lab.pdf (Low confidence (0.52))
+2026-10-26 13:16:47,151 INFO    Claimed: priya_rx.pdf
+2026-10-26 13:16:47,168 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-26 13:16:53,195 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 13:16:53,216 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 13:16:59,241 INFO    Claimed: rekha_report.txt
+2026-10-26 13:16:59,253 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-26 13:17:05,285 INFO    Claimed: report_final_copy.pdf
+2026-10-26 13:17:05,293 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-26 13:17:11,313 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 13:17:11,327 INFO    Filed: sample_blood_test_report.pdf -> Sample / Laboratory
+2026-10-26 13:17:17,355 INFO    Claimed: scan_09182026.pdf
+2026-10-26 13:17:17,370 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-26 13:17:23,397 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 13:17:23,544 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Poor Control / Laboratory
+2026-10-26 14:53:08,249 INFO    Claimed: image.png
+2026-10-26 14:53:08,674 INFO    Needs review: image.png (Low confidence (0.52))
+2026-10-26 15:24:42,753 INFO    Claimed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf
+2026-10-26 15:24:42,803 INFO    Filed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf -> 6Acccbc49C10A946934F3Bc5 Lab Syn Clean (1) / Laboratory
+2026-10-26 15:24:43,811 INFO    Claimed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean.pdf
+2026-10-26 15:24:43,814 INFO    Duplicate: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean.pdf
+2026-10-26 15:24:44,822 INFO    Claimed: discharge-specimen.pdf
+2026-10-26 15:24:44,844 INFO    Filed: discharge-specimen.pdf -> Sample Patient A / Medical Records
+2026-10-26 15:24:45,853 INFO    Claimed: laboratory-specimen.pdf
+2026-10-26 15:24:45,872 INFO    Filed: laboratory-specimen.pdf -> Sample Patient A / Laboratory
+2026-10-26 15:24:46,882 INFO    Claimed: radiology-specimen.pdf
+2026-10-26 15:24:46,899 INFO    Filed: radiology-specimen.pdf -> Sample Patient A / Radiology
+2026-10-26 17:00:11,432 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 17:00:11,447 INFO    Duplicate: ECG-Sample-Report.pdf
+2026-10-26 17:00:17,483 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 17:00:17,487 INFO    Duplicate: Sample-12-lead-PDF.pdf
+2026-10-26 17:00:23,508 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:00:23,520 INFO    Duplicate: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:00:29,551 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:00:29,561 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:00:35,592 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:00:35,600 INFO    Duplicate: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:00:41,628 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:00:41,639 INFO    Duplicate: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:00:47,667 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:00:47,672 INFO    Duplicate: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:00:53,697 INFO    Claimed: anand_xray.txt
+2026-10-26 17:00:53,708 INFO    Duplicate: anand_xray.txt
+2026-10-26 17:00:59,741 INFO    Claimed: anjali_discharge.docx
+2026-10-26 17:00:59,752 INFO    Duplicate: anjali_discharge.docx
+2026-10-26 17:01:05,787 INFO    Claimed: divya_ecg.pdf
+2026-10-26 17:01:05,798 INFO    Duplicate: divya_ecg.pdf
+2026-10-26 17:01:07,501 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 17:01:07,506 INFO    Robot worker stopped cleanly.
+2026-10-26 17:01:52,573 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 17:01:53,580 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 17:01:53,583 INFO    Duplicate: kiran_ecg.pdf
+2026-10-26 17:01:59,783 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 17:01:59,800 INFO    Duplicate: ECG-Sample-Report.pdf
+2026-10-26 17:02:05,829 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 17:02:05,840 INFO    Duplicate: Sample-12-lead-PDF.pdf
+2026-10-26 17:02:11,876 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:02:11,889 INFO    Duplicate: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:02:17,918 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:02:17,923 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:02:23,947 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:02:23,957 INFO    Duplicate: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:02:29,990 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:02:30,001 INFO    Duplicate: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:02:36,040 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:02:36,048 INFO    Duplicate: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:02:42,075 INFO    Claimed: anand_xray.txt
+2026-10-26 17:02:42,087 INFO    Duplicate: anand_xray.txt
+2026-10-26 17:02:48,121 INFO    Claimed: anjali_discharge.docx
+2026-10-26 17:02:48,124 INFO    Duplicate: anjali_discharge.docx
+2026-10-26 17:02:54,150 INFO    Claimed: divya_ecg.pdf
+2026-10-26 17:02:54,160 INFO    Duplicate: divya_ecg.pdf
+2026-10-26 17:03:00,188 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 17:03:00,199 INFO    Duplicate: kiran_ecg.pdf
+2026-10-26 17:03:06,237 INFO    Claimed: kiran_xray.pdf
+2026-10-26 17:03:06,247 INFO    Duplicate: kiran_xray.pdf
+2026-10-26 17:03:12,284 INFO    Claimed: mohan_lab.pdf
+2026-10-26 17:03:12,293 INFO    Duplicate: mohan_lab.pdf
+2026-10-26 17:03:18,330 INFO    Claimed: mohan_rx.pdf
+2026-10-26 17:03:18,333 INFO    Duplicate: mohan_rx.pdf
+2026-10-26 17:03:24,354 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 17:03:24,364 INFO    Duplicate: multiple_patient_reports.pdf
+2026-10-26 17:03:30,399 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 17:03:30,408 INFO    Duplicate: multiple_patient_xray_reports.pdf
+2026-10-26 17:03:36,444 INFO    Claimed: priya_lab.pdf
+2026-10-26 17:03:36,455 INFO    Duplicate: priya_lab.pdf
+2026-10-26 17:03:42,484 INFO    Claimed: priya_rx.pdf
+2026-10-26 17:03:42,494 INFO    Duplicate: priya_rx.pdf
+2026-10-26 17:03:48,531 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 17:03:48,535 INFO    Duplicate: random_blood_test_report.pdf
+2026-10-26 17:03:54,560 INFO    Claimed: rekha_report.txt
+2026-10-26 17:03:54,571 INFO    Duplicate: rekha_report.txt
+2026-10-26 17:04:00,602 INFO    Claimed: report_final_copy.pdf
+2026-10-26 17:04:00,609 INFO    Duplicate: report_final_copy.pdf
+2026-10-26 17:04:06,639 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 17:04:06,649 INFO    Duplicate: sample_blood_test_report.pdf
+2026-10-26 17:04:12,685 INFO    Claimed: scan_09182026.pdf
+2026-10-26 17:04:12,695 INFO    Duplicate: scan_09182026.pdf
+2026-10-26 17:04:18,732 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:04:18,741 INFO    Duplicate: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:04:44,795 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 17:04:44,803 INFO    Duplicate: ECG-Sample-Report.pdf
+2026-10-26 17:04:50,831 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 17:04:50,837 INFO    Duplicate: Sample-12-lead-PDF.pdf
+2026-10-26 17:04:56,863 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:04:56,872 INFO    Duplicate: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:05:02,913 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:05:02,919 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:05:08,947 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:05:08,959 INFO    Duplicate: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:05:14,992 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:05:15,001 INFO    Duplicate: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:05:21,027 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:05:21,033 INFO    Duplicate: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:05:27,058 INFO    Claimed: anand_xray.txt
+2026-10-26 17:05:27,068 INFO    Duplicate: anand_xray.txt
+2026-10-26 17:05:33,106 INFO    Claimed: anjali_discharge.docx
+2026-10-26 17:05:33,116 INFO    Duplicate: anjali_discharge.docx
+2026-10-26 17:05:39,147 INFO    Claimed: divya_ecg.pdf
+2026-10-26 17:05:39,164 INFO    Duplicate: divya_ecg.pdf
+2026-10-26 17:05:45,200 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 17:05:45,214 INFO    Duplicate: kiran_ecg.pdf
+2026-10-26 17:05:51,246 INFO    Claimed: kiran_xray.pdf
+2026-10-26 17:05:51,251 INFO    Duplicate: kiran_xray.pdf
+2026-10-26 17:05:57,281 INFO    Claimed: mohan_lab.pdf
+2026-10-26 17:05:57,289 INFO    Duplicate: mohan_lab.pdf
+2026-10-26 17:06:03,321 INFO    Claimed: mohan_rx.pdf
+2026-10-26 17:06:03,330 INFO    Duplicate: mohan_rx.pdf
+2026-10-26 17:06:09,367 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 17:06:09,375 INFO    Duplicate: multiple_patient_reports.pdf
+2026-10-26 17:06:15,414 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 17:06:15,423 INFO    Duplicate: multiple_patient_xray_reports.pdf
+2026-10-26 17:06:21,460 INFO    Claimed: priya_lab.pdf
+2026-10-26 17:06:21,464 INFO    Duplicate: priya_lab.pdf
+2026-10-26 17:06:27,489 INFO    Claimed: priya_rx.pdf
+2026-10-26 17:06:27,499 INFO    Duplicate: priya_rx.pdf
+2026-10-26 17:06:33,537 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 17:06:33,547 INFO    Duplicate: random_blood_test_report.pdf
+2026-10-26 17:06:39,587 INFO    Claimed: rekha_report.txt
+2026-10-26 17:06:39,594 INFO    Duplicate: rekha_report.txt
+2026-10-26 17:06:45,625 INFO    Claimed: report_final_copy.pdf
+2026-10-26 17:06:45,635 INFO    Duplicate: report_final_copy.pdf
+2026-10-26 17:06:51,667 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 17:06:51,672 INFO    Duplicate: sample_blood_test_report.pdf
+2026-10-26 17:06:57,699 INFO    Claimed: scan_09182026.pdf
+2026-10-26 17:06:57,708 INFO    Duplicate: scan_09182026.pdf
+2026-10-26 17:07:03,735 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:07:03,748 INFO    Duplicate: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:08:18,903 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 17:08:18,906 INFO    Robot worker stopped cleanly.
+2026-10-26 17:08:48,608 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 17:09:04,766 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 17:09:04,779 INFO    Duplicate: ECG-Sample-Report.pdf
+2026-10-26 17:09:10,815 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 17:09:10,820 INFO    Duplicate: Sample-12-lead-PDF.pdf
+2026-10-26 17:09:16,842 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:09:16,855 INFO    Duplicate: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:09:22,889 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:09:22,901 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:09:28,940 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:09:28,949 INFO    Duplicate: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:09:34,975 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:09:34,984 INFO    Duplicate: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:09:41,023 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:09:41,028 INFO    Duplicate: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:09:47,053 INFO    Claimed: anand_xray.txt
+2026-10-26 17:09:47,063 INFO    Duplicate: anand_xray.txt
+2026-10-26 17:09:53,100 INFO    Claimed: anjali_discharge.docx
+2026-10-26 17:09:53,110 INFO    Duplicate: anjali_discharge.docx
+2026-10-26 17:09:59,148 INFO    Claimed: divya_ecg.pdf
+2026-10-26 17:09:59,160 INFO    Duplicate: divya_ecg.pdf
+2026-10-26 17:10:05,193 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 17:10:05,199 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 17:10:05,209 INFO    Duplicate: kiran_ecg.pdf
+2026-10-26 17:10:05,230 INFO    Robot worker stopped cleanly.
+2026-10-26 17:10:08,031 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 17:10:09,038 INFO    Claimed: kiran_xray.pdf
+2026-10-26 17:10:09,042 INFO    Duplicate: kiran_xray.pdf
+2026-10-26 17:10:15,190 INFO    Claimed: mohan_lab.pdf
+2026-10-26 17:10:15,203 INFO    Duplicate: mohan_lab.pdf
+2026-10-26 17:10:21,242 INFO    Claimed: mohan_rx.pdf
+2026-10-26 17:10:21,246 INFO    Duplicate: mohan_rx.pdf
+2026-10-26 17:10:27,274 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 17:10:27,285 INFO    Duplicate: multiple_patient_reports.pdf
+2026-10-26 17:10:33,325 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 17:10:33,335 INFO    Duplicate: multiple_patient_xray_reports.pdf
+2026-10-26 17:10:39,380 INFO    Claimed: priya_lab.pdf
+2026-10-26 17:10:39,390 INFO    Duplicate: priya_lab.pdf
+2026-10-26 17:10:45,430 INFO    Claimed: priya_rx.pdf
+2026-10-26 17:10:45,435 INFO    Duplicate: priya_rx.pdf
+2026-10-26 17:10:51,474 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 17:10:51,479 INFO    Duplicate: random_blood_test_report.pdf
+2026-10-26 17:10:57,502 INFO    Claimed: rekha_report.txt
+2026-10-26 17:10:57,511 INFO    Duplicate: rekha_report.txt
+2026-10-26 17:11:03,550 INFO    Claimed: report_final_copy.pdf
+2026-10-26 17:11:03,558 INFO    Duplicate: report_final_copy.pdf
+2026-10-26 17:11:09,586 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 17:11:09,591 INFO    Duplicate: sample_blood_test_report.pdf
+2026-10-26 17:11:15,623 INFO    Claimed: scan_09182026.pdf
+2026-10-26 17:11:15,628 INFO    Duplicate: scan_09182026.pdf
+2026-10-26 17:11:18,740 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 17:11:18,745 INFO    Robot worker stopped cleanly.
+2026-10-26 17:12:30,685 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 17:12:31,692 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 17:12:32,251 INFO    Filed: ECG-Sample-Report.pdf -> Sample / Cardiology
+2026-10-26 17:12:33,259 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 17:12:33,325 INFO    Filed: Sample-12-lead-PDF.pdf -> Test / Cardiology
+2026-10-26 17:12:34,333 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:12:34,477 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Poor Control / Laboratory
+2026-10-26 17:12:40,613 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:12:41,262 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (No readable text found (blank or unreadable scan))
+2026-10-26 17:12:42,270 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:12:42,401 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (No readable text found (blank or unreadable scan))
+2026-10-26 17:12:48,425 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:12:48,589 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (No readable text found (blank or unreadable scan))
+2026-10-26 17:12:54,609 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:12:54,998 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-26 17:13:01,022 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:13:01,042 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> X Ray Format Example Sample Template Drlogy Lab / Radiology
+2026-10-26 17:13:07,065 INFO    Claimed: anand_xray.txt
+2026-10-26 17:13:07,071 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-26 17:13:13,090 INFO    Claimed: anjali_discharge.docx
+2026-10-26 17:13:13,099 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-26 17:13:19,119 INFO    Claimed: divya_ecg.pdf
+2026-10-26 17:13:19,132 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-26 17:13:25,153 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 17:13:25,165 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-26 17:13:31,191 INFO    Claimed: kiran_xray.pdf
+2026-10-26 17:13:31,210 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-26 17:13:37,235 INFO    Claimed: mohan_lab.pdf
+2026-10-26 17:13:37,240 INFO    Needs review: mohan_lab.pdf (Low confidence (0.32))
+2026-10-26 17:13:43,257 INFO    Claimed: mohan_rx.pdf
+2026-10-26 17:13:43,280 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-26 17:13:49,303 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 17:13:49,320 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-26 17:13:55,344 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 17:13:55,364 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-26 17:14:01,386 INFO    Claimed: priya_lab.pdf
+2026-10-26 17:14:01,404 INFO    Needs review: priya_lab.pdf (Low confidence (0.52))
+2026-10-26 17:14:07,434 INFO    Claimed: priya_rx.pdf
+2026-10-26 17:14:07,443 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-26 17:14:13,465 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 17:14:13,484 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 17:14:19,515 INFO    Claimed: rekha_report.txt
+2026-10-26 17:14:19,526 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-26 17:14:25,557 INFO    Claimed: report_final_copy.pdf
+2026-10-26 17:14:25,571 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-26 17:14:31,592 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 17:14:31,608 INFO    Filed: sample_blood_test_report.pdf -> Sample / Laboratory
+2026-10-26 17:14:37,632 INFO    Claimed: scan_09182026.pdf
+2026-10-26 17:14:37,637 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-26 17:14:43,658 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:14:43,674 INFO    Duplicate: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:16:39,890 INFO    Claimed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf
+2026-10-26 17:16:39,914 INFO    Filed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf -> 6Acccbc49C10A946934F3Bc5 Lab Syn Clean (1) / Laboratory
+2026-10-26 17:16:40,923 INFO    Claimed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean.pdf
+2026-10-26 17:16:40,926 INFO    Duplicate: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean.pdf
+2026-10-26 17:16:41,934 INFO    Claimed: discharge-specimen.pdf
+2026-10-26 17:16:41,949 INFO    Filed: discharge-specimen.pdf -> Sample Patient A / Medical Records
+2026-10-26 17:16:42,957 INFO    Claimed: laboratory-specimen.pdf
+2026-10-26 17:16:42,973 INFO    Filed: laboratory-specimen.pdf -> Sample Patient A / Laboratory
+2026-10-26 17:16:43,983 INFO    Claimed: radiology-specimen.pdf
+2026-10-26 17:16:44,002 INFO    Filed: radiology-specimen.pdf -> Sample Patient A / Radiology
+2026-10-26 17:25:59,698 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 17:25:59,701 INFO    Robot worker stopped cleanly.
+2026-10-26 17:27:50,639 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 17:28:01,808 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 17:28:01,821 INFO    Duplicate: ECG-Sample-Report.pdf
+2026-10-26 17:28:07,856 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 17:28:07,861 INFO    Duplicate: Sample-12-lead-PDF.pdf
+2026-10-26 17:28:13,887 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:28:13,899 INFO    Duplicate: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 17:28:19,936 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:28:19,945 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 17:28:21,128 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 17:28:21,132 INFO    Robot worker stopped cleanly.
+2026-10-26 17:28:43,248 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 17:28:44,256 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 17:28:44,763 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (No readable text found (blank or unreadable scan))
+2026-10-26 17:28:45,771 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 17:28:46,172 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-26 17:28:47,175 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 17:28:47,301 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> Yashvi M. Patel / Radiology
+2026-10-26 17:28:48,309 INFO    Claimed: anand_xray.txt
+2026-10-26 17:28:48,320 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-26 17:28:54,428 INFO    Claimed: anjali_discharge.docx
+2026-10-26 17:28:54,431 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-26 17:28:55,439 INFO    Claimed: divya_ecg.pdf
+2026-10-26 17:28:55,458 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-26 17:29:01,483 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 17:29:01,499 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-26 17:29:07,525 INFO    Claimed: kiran_xray.pdf
+2026-10-26 17:29:07,534 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-26 17:29:13,554 INFO    Claimed: mohan_lab.pdf
+2026-10-26 17:29:13,572 INFO    Filed: mohan_lab.pdf -> Mohan Reddy / Laboratory
+2026-10-26 17:29:19,596 INFO    Claimed: mohan_rx.pdf
+2026-10-26 17:29:19,613 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-26 17:29:25,642 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 17:29:25,668 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-26 17:29:31,701 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 17:29:31,720 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-26 17:29:37,741 INFO    Claimed: priya_lab.pdf
+2026-10-26 17:29:37,748 INFO    Filed: priya_lab.pdf -> Priya Sharma / Laboratory
+2026-10-26 17:29:43,768 INFO    Claimed: priya_rx.pdf
+2026-10-26 17:29:43,781 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-26 17:29:49,805 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 17:29:49,824 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 17:29:55,854 INFO    Claimed: rekha_report.txt
+2026-10-26 17:29:55,864 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-26 17:30:01,895 INFO    Claimed: report_final_copy.pdf
+2026-10-26 17:30:01,911 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-26 17:30:07,940 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 17:30:07,951 INFO    Filed: sample_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 17:30:13,972 INFO    Claimed: scan_09182026.pdf
+2026-10-26 17:30:13,985 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-26 17:30:20,011 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 17:30:20,165 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Sterling Accuris Buddy / Laboratory
+2026-10-26 17:31:41,333 INFO    Claimed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf
+2026-10-26 17:31:41,345 INFO    Needs review: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf (Patient name could not be identified)
+2026-10-26 21:13:19,403 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 21:13:20,411 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 21:13:21,005 INFO    Filed: ECG-Sample-Report.pdf -> Height / Cardiology
+2026-10-26 21:13:22,013 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 21:13:22,082 INFO    Filed: Sample-12-lead-PDF.pdf -> Xxxxxx Xxxxxx / Cardiology
+2026-10-26 21:13:23,089 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 21:13:24,039 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:13:30,131 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 21:13:30,574 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:13:31,581 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 21:13:32,211 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:13:38,237 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 21:13:39,528 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-26 21:13:45,547 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 21:13:45,564 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> Yashvi M. Patel / Radiology
+2026-10-26 21:13:46,574 INFO    Claimed: anand_xray.txt
+2026-10-26 21:13:46,587 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-26 21:13:52,617 INFO    Claimed: anjali_discharge.docx
+2026-10-26 21:13:52,628 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-26 21:13:58,660 INFO    Claimed: divya_ecg.pdf
+2026-10-26 21:13:58,681 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-26 21:14:04,707 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 21:14:04,716 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-26 21:14:10,733 INFO    Claimed: kiran_xray.pdf
+2026-10-26 21:14:10,749 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-26 21:14:16,764 INFO    Claimed: mohan_lab.pdf
+2026-10-26 21:14:16,783 INFO    Filed: mohan_lab.pdf -> Mohan Reddy / Laboratory
+2026-10-26 21:14:22,806 INFO    Claimed: mohan_rx.pdf
+2026-10-26 21:14:22,820 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-26 21:14:28,842 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 21:14:28,867 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-26 21:14:34,891 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 21:14:34,910 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-26 21:14:40,928 INFO    Claimed: priya_lab.pdf
+2026-10-26 21:14:40,943 INFO    Filed: priya_lab.pdf -> Priya Sharma / Laboratory
+2026-10-26 21:14:46,969 INFO    Claimed: priya_rx.pdf
+2026-10-26 21:14:46,987 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-26 21:14:53,019 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 21:14:53,056 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 21:14:59,084 INFO    Claimed: rekha_report.txt
+2026-10-26 21:14:59,097 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-26 21:15:05,131 INFO    Claimed: report_final_copy.pdf
+2026-10-26 21:15:05,137 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-26 21:15:11,158 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 21:15:11,182 INFO    Filed: sample_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 21:15:17,212 INFO    Claimed: scan_09182026.pdf
+2026-10-26 21:15:17,228 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-26 21:15:23,260 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 21:15:23,421 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Sterling Accuris Buddy / Laboratory
+2026-10-26 21:15:43,386 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 21:15:43,391 INFO    Robot worker stopped cleanly.
+2026-10-26 21:15:53,858 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 21:15:54,865 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 21:15:54,871 INFO    Duplicate: ECG-Sample-Report.pdf
+2026-10-26 21:16:01,032 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 21:16:01,043 INFO    Duplicate: Sample-12-lead-PDF.pdf
+2026-10-26 21:16:07,078 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 21:16:07,088 INFO    Duplicate: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 21:16:13,121 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 21:16:13,132 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 21:16:19,163 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 21:16:19,171 INFO    Duplicate: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 21:16:25,200 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 21:16:25,206 INFO    Duplicate: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 21:16:31,227 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 21:16:31,235 INFO    Duplicate: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 21:16:37,266 INFO    Claimed: anand_xray.txt
+2026-10-26 21:16:37,278 INFO    Duplicate: anand_xray.txt
+2026-10-26 21:16:39,547 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 21:16:39,552 INFO    Robot worker stopped cleanly.
+2026-10-26 21:17:06,393 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 21:17:17,575 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 21:17:18,143 INFO    Filed: ECG-Sample-Report.pdf -> Height / Cardiology
+2026-10-26 21:17:24,160 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 21:17:24,227 INFO    Filed: Sample-12-lead-PDF.pdf -> Xxxxxx Xxxxxx / Cardiology
+2026-10-26 21:17:30,253 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 21:17:31,064 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:17:37,084 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 21:17:37,525 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:17:38,533 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 21:17:39,153 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:17:45,174 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 21:17:46,510 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-26 21:17:52,535 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 21:17:52,559 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> Yashvi M. Patel / Radiology
+2026-10-26 21:17:58,584 INFO    Claimed: anand_xray.txt
+2026-10-26 21:17:58,599 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-26 21:18:04,629 INFO    Claimed: anjali_discharge.docx
+2026-10-26 21:18:04,633 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-26 21:18:10,654 INFO    Claimed: divya_ecg.pdf
+2026-10-26 21:18:10,673 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-26 21:18:16,698 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 21:18:16,723 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-26 21:18:22,755 INFO    Claimed: kiran_xray.pdf
+2026-10-26 21:18:22,773 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-26 21:18:28,805 INFO    Claimed: mohan_lab.pdf
+2026-10-26 21:18:28,823 INFO    Filed: mohan_lab.pdf -> Mohan Reddy / Laboratory
+2026-10-26 21:18:34,855 INFO    Claimed: mohan_rx.pdf
+2026-10-26 21:18:34,863 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-26 21:18:40,883 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 21:18:40,907 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-26 21:18:46,936 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 21:18:46,964 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-26 21:18:52,991 INFO    Claimed: priya_lab.pdf
+2026-10-26 21:18:53,007 INFO    Filed: priya_lab.pdf -> Priya Sharma / Laboratory
+2026-10-26 21:18:59,039 INFO    Claimed: priya_rx.pdf
+2026-10-26 21:18:59,056 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-26 21:19:05,088 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 21:19:05,098 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 21:19:11,118 INFO    Claimed: rekha_report.txt
+2026-10-26 21:19:11,131 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-26 21:19:17,160 INFO    Claimed: report_final_copy.pdf
+2026-10-26 21:19:17,178 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-26 21:19:23,209 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 21:19:23,231 INFO    Filed: sample_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 21:19:29,259 INFO    Claimed: scan_09182026.pdf
+2026-10-26 21:19:29,272 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-26 21:19:35,296 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 21:19:35,458 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Sterling Accuris Buddy / Laboratory
+2026-10-26 21:28:13,186 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-26 21:28:13,192 INFO    Robot worker stopped cleanly.
+2026-10-26 21:28:24,978 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-26 21:28:31,126 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-26 21:28:31,703 INFO    Filed: ECG-Sample-Report.pdf -> Height / Cardiology
+2026-10-26 21:28:37,727 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-26 21:28:37,779 INFO    Filed: Sample-12-lead-PDF.pdf -> Xxxxxx Xxxxxx / Cardiology
+2026-10-26 21:28:43,799 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-26 21:28:44,604 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:28:50,627 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-26 21:28:51,066 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:28:57,095 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-26 21:28:57,705 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-26 21:29:03,731 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-26 21:29:05,025 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-26 21:29:11,047 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-26 21:29:11,072 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> Yashvi M. Patel / Radiology
+2026-10-26 21:29:17,100 INFO    Claimed: anand_xray.txt
+2026-10-26 21:29:17,113 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-26 21:29:23,141 INFO    Claimed: anjali_discharge.docx
+2026-10-26 21:29:23,151 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-26 21:29:29,184 INFO    Claimed: divya_ecg.pdf
+2026-10-26 21:29:29,202 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-26 21:29:35,232 INFO    Claimed: kiran_ecg.pdf
+2026-10-26 21:29:35,239 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-26 21:29:41,260 INFO    Claimed: kiran_xray.pdf
+2026-10-26 21:29:41,274 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-26 21:29:47,300 INFO    Claimed: mohan_lab.pdf
+2026-10-26 21:29:47,319 INFO    Filed: mohan_lab.pdf -> Mohan Reddy / Laboratory
+2026-10-26 21:29:53,347 INFO    Claimed: mohan_rx.pdf
+2026-10-26 21:29:53,364 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-26 21:29:59,396 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-26 21:29:59,422 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-26 21:30:05,448 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-26 21:30:05,465 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-26 21:30:11,482 INFO    Claimed: priya_lab.pdf
+2026-10-26 21:30:11,498 INFO    Filed: priya_lab.pdf -> Priya Sharma / Laboratory
+2026-10-26 21:30:17,524 INFO    Claimed: priya_rx.pdf
+2026-10-26 21:30:17,542 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-26 21:30:23,569 INFO    Claimed: random_blood_test_report.pdf
+2026-10-26 21:30:23,586 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 21:30:29,607 INFO    Claimed: rekha_report.txt
+2026-10-26 21:30:29,618 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-26 21:30:35,644 INFO    Claimed: report_final_copy.pdf
+2026-10-26 21:30:35,653 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-26 21:30:41,675 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-26 21:30:41,693 INFO    Filed: sample_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-26 21:30:47,716 INFO    Claimed: scan_09182026.pdf
+2026-10-26 21:30:47,734 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-26 21:30:53,761 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-26 21:30:53,924 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Sterling Accuris Buddy / Laboratory
+2026-10-26 21:32:40,136 INFO    Claimed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf
+2026-10-26 21:32:40,164 INFO    Filed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean (1).pdf -> Ava Okafor / Laboratory
+2026-10-26 21:32:41,172 INFO    Claimed: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean.pdf
+2026-10-26 21:32:41,175 INFO    Duplicate: 6acccbc49c10a946934f3bc5_lab-report-syn-0042-clean.pdf
+2026-10-26 21:32:42,182 INFO    Claimed: discharge-specimen.pdf
+2026-10-26 21:32:42,207 INFO    Filed: discharge-specimen.pdf -> Specimen / Medical Records
+2026-10-26 21:32:43,216 INFO    Claimed: laboratory-specimen.pdf
+2026-10-26 21:32:43,237 INFO    Filed: laboratory-specimen.pdf -> Laboratory Specimen / Laboratory
+2026-10-26 21:32:44,246 INFO    Claimed: radiology-specimen.pdf
+2026-10-26 21:32:44,266 INFO    Filed: radiology-specimen.pdf -> Radiology Specimen / Radiology
+2026-10-27 15:15:04,286 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-27 15:15:05,296 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-27 15:15:05,960 INFO    Filed: ECG-Sample-Report.pdf -> Height / Cardiology
+2026-10-27 15:15:06,968 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-27 15:15:07,038 INFO    Filed: Sample-12-lead-PDF.pdf -> Xxxxxx Xxxxxx / Cardiology
+2026-10-27 15:15:08,045 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-27 15:15:09,496 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:15:10,503 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-27 15:15:10,948 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:15:11,956 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-27 15:15:12,568 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:15:13,576 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-27 15:15:14,884 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-27 15:15:15,892 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-27 15:15:15,917 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> Yashvi M. Patel / Radiology
+2026-10-27 15:15:16,926 INFO    Claimed: anand_xray.txt
+2026-10-27 15:15:16,940 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-27 15:15:17,950 INFO    Claimed: anjali_discharge.docx
+2026-10-27 15:15:17,961 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-27 15:15:18,969 INFO    Claimed: divya_ecg.pdf
+2026-10-27 15:15:18,988 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-27 15:15:19,996 INFO    Claimed: kiran_ecg.pdf
+2026-10-27 15:15:20,012 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-27 15:15:26,143 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-27 15:15:26,153 INFO    Duplicate: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-27 15:15:27,165 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-27 15:15:27,177 INFO    Duplicate: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-27 15:15:28,188 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-27 15:15:28,202 INFO    Duplicate: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-27 15:15:34,235 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-27 15:15:34,247 INFO    Duplicate: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-27 15:15:40,283 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-27 15:15:40,286 INFO    Duplicate: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-27 15:15:40,578 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-27 15:15:40,581 INFO    Robot worker stopped cleanly.
+2026-10-27 15:44:58,528 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-27 15:44:59,537 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-27 15:45:00,098 INFO    Filed: ECG-Sample-Report.pdf -> Height / Cardiology
+2026-10-27 15:45:01,105 INFO    Claimed: anand_xray.txt
+2026-10-27 15:45:01,115 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-27 15:45:02,125 INFO    Claimed: anjali_discharge.docx
+2026-10-27 15:45:02,135 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-27 15:45:08,318 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-27 15:45:08,390 INFO    Filed: Sample-12-lead-PDF.pdf -> Xxxxxx Xxxxxx / Cardiology
+2026-10-27 15:45:09,397 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-27 15:45:10,176 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:45:16,202 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-27 15:45:16,650 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:45:22,673 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-27 15:45:23,278 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:45:29,302 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-27 15:45:30,599 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-27 15:45:36,624 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-27 15:45:36,652 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> Yashvi M. Patel / Radiology
+2026-10-27 15:45:42,680 INFO    Claimed: anand_xray.txt
+2026-10-27 15:45:42,687 INFO    Duplicate: anand_xray.txt
+2026-10-27 15:45:48,716 INFO    Claimed: anjali_discharge.docx
+2026-10-27 15:45:48,725 INFO    Duplicate: anjali_discharge.docx
+2026-10-27 15:45:54,753 INFO    Claimed: divya_ecg.pdf
+2026-10-27 15:45:54,770 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-27 15:46:00,801 INFO    Claimed: kiran_ecg.pdf
+2026-10-27 15:46:00,808 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-27 15:46:06,829 INFO    Claimed: kiran_xray.pdf
+2026-10-27 15:46:06,846 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-27 15:46:12,875 INFO    Claimed: mohan_lab.pdf
+2026-10-27 15:46:12,885 INFO    Filed: mohan_lab.pdf -> Mohan Reddy / Laboratory
+2026-10-27 15:46:18,912 INFO    Claimed: mohan_rx.pdf
+2026-10-27 15:46:18,927 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-27 15:46:24,951 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-27 15:46:24,968 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-27 15:46:30,994 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-27 15:46:31,013 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-27 15:46:37,032 INFO    Claimed: priya_lab.pdf
+2026-10-27 15:46:37,047 INFO    Filed: priya_lab.pdf -> Priya Sharma / Laboratory
+2026-10-27 15:46:43,077 INFO    Claimed: priya_rx.pdf
+2026-10-27 15:46:43,095 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-27 15:46:49,121 INFO    Claimed: random_blood_test_report.pdf
+2026-10-27 15:46:49,142 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-27 15:46:55,172 INFO    Claimed: rekha_report.txt
+2026-10-27 15:46:55,186 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-27 15:47:01,218 INFO    Claimed: report_final_copy.pdf
+2026-10-27 15:47:01,227 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-27 15:47:07,248 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-27 15:47:07,265 INFO    Filed: sample_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-27 15:47:13,290 INFO    Claimed: scan_09182026.pdf
+2026-10-27 15:47:13,307 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-27 15:47:19,336 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-27 15:47:19,497 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Sterling Accuris Buddy / Laboratory
+2026-10-27 15:48:16,150 INFO    Stop requested (signal 2). Finishing current file, then exiting.
+2026-10-27 15:48:16,154 INFO    Robot worker stopped cleanly.
+2026-10-27 15:48:46,150 INFO    Robot worker started. Watching /Users/bonamrakesh/IntelligentMedicalRecordClassifier/data/incoming_dropzone (poll 5s).
+2026-10-27 15:48:47,158 INFO    Claimed: ECG-Sample-Report.pdf
+2026-10-27 15:48:47,685 INFO    Filed: ECG-Sample-Report.pdf -> Height / Cardiology
+2026-10-27 15:48:48,693 INFO    Claimed: Sample-12-lead-PDF.pdf
+2026-10-27 15:48:48,766 INFO    Filed: Sample-12-lead-PDF.pdf -> Xxxxxx Xxxxxx / Cardiology
+2026-10-27 15:48:54,894 INFO    Claimed: Screenshot 2026-09-20 at 5.29.27 PM copy.png
+2026-10-27 15:48:55,510 INFO    Needs review: Screenshot 2026-09-20 at 5.29.27 PM copy.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:48:56,518 INFO    Claimed: Screenshot 2026-09-20 at 5.36.23 PM.png
+2026-10-27 15:48:56,957 INFO    Needs review: Screenshot 2026-09-20 at 5.36.23 PM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:49:02,984 INFO    Claimed: Screenshot 2026-09-21 at 9.51.23 AM.png
+2026-10-27 15:49:03,598 INFO    Needs review: Screenshot 2026-09-21 at 9.51.23 AM.png (Low confidence (0.0); Patient name could not be identified)
+2026-10-27 15:49:09,621 INFO    Claimed: Screenshot 2026-09-21 at 9.52.08 AM.png
+2026-10-27 15:49:10,903 INFO    Needs review: Screenshot 2026-09-21 at 9.52.08 AM.png (Low confidence (0.0))
+2026-10-27 15:49:16,927 INFO    Claimed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf
+2026-10-27 15:49:16,951 INFO    Filed: X-Ray-Report-Format-Example-Sample-Template-Drlogy-Lab-Report.pdf -> Yashvi M. Patel / Radiology
+2026-10-27 15:49:22,977 INFO    Claimed: anand_xray.txt
+2026-10-27 15:49:22,982 INFO    Filed: anand_xray.txt -> Anand / Radiology
+2026-10-27 15:49:29,003 INFO    Claimed: anjali_discharge.docx
+2026-10-27 15:49:29,011 INFO    Needs review: anjali_discharge.docx (Unsupported file type '.docx')
+2026-10-27 15:49:35,042 INFO    Claimed: divya_ecg.pdf
+2026-10-27 15:49:35,058 INFO    Filed: divya_ecg.pdf -> Divya Menon / Cardiology
+2026-10-27 15:49:41,082 INFO    Claimed: kiran_ecg.pdf
+2026-10-27 15:49:41,099 INFO    Filed: kiran_ecg.pdf -> Kiran Patel / Cardiology
+2026-10-27 15:49:47,130 INFO    Claimed: kiran_xray.pdf
+2026-10-27 15:49:47,149 INFO    Filed: kiran_xray.pdf -> Kiran Patel / Radiology
+2026-10-27 15:49:53,177 INFO    Claimed: mohan_lab.pdf
+2026-10-27 15:49:53,186 INFO    Filed: mohan_lab.pdf -> Mohan Reddy / Laboratory
+2026-10-27 15:49:59,208 INFO    Claimed: mohan_rx.pdf
+2026-10-27 15:49:59,225 INFO    Filed: mohan_rx.pdf -> Mohan Reddy / Pharmacy
+2026-10-27 15:50:05,258 INFO    Claimed: multiple_patient_reports.pdf
+2026-10-27 15:50:05,282 INFO    Filed: multiple_patient_reports.pdf -> John Doe / Laboratory
+2026-10-27 15:50:11,311 INFO    Claimed: multiple_patient_xray_reports.pdf
+2026-10-27 15:50:11,340 INFO    Filed: multiple_patient_xray_reports.pdf -> John Doe / Radiology
+2026-10-27 15:50:17,365 INFO    Claimed: priya_lab.pdf
+2026-10-27 15:50:17,383 INFO    Filed: priya_lab.pdf -> Priya Sharma / Laboratory
+2026-10-27 15:50:23,410 INFO    Claimed: priya_rx.pdf
+2026-10-27 15:50:23,420 INFO    Filed: priya_rx.pdf -> Priya Sharma / Pharmacy
+2026-10-27 15:50:29,442 INFO    Claimed: random_blood_test_report.pdf
+2026-10-27 15:50:29,464 INFO    Filed: random_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-27 15:50:35,489 INFO    Claimed: rekha_report.txt
+2026-10-27 15:50:35,501 INFO    Filed: rekha_report.txt -> Rekha / Laboratory
+2026-10-27 15:50:41,530 INFO    Claimed: report_final_copy.pdf
+2026-10-27 15:50:41,548 INFO    Filed: report_final_copy.pdf -> Ravi Kumar / Medical Records
+2026-10-27 15:50:47,576 INFO    Claimed: sample_blood_test_report.pdf
+2026-10-27 15:50:47,593 INFO    Filed: sample_blood_test_report.pdf -> John Doe / Laboratory
+2026-10-27 15:50:53,618 INFO    Claimed: scan_09182026.pdf
+2026-10-27 15:50:53,625 INFO    Filed: scan_09182026.pdf -> Ravi Kumar / Radiology
+2026-10-27 15:50:59,643 INFO    Claimed: sterling-accuris-pathology-sample-report-unlocked.pdf
+2026-10-27 15:50:59,781 INFO    Filed: sterling-accuris-pathology-sample-report-unlocked.pdf -> Sterling Accuris Buddy / Laboratory
